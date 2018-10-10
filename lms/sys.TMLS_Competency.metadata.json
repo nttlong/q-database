@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"lms.sys.TMLS_Competency"},{"v":2,"unique":true,"key":{"com_code":1},"name":"com_code_1","ns":"lms.sys.TMLS_Competency","partialFilterExpression":{"com_code":{"$type":"string"}}}],"uuid":"f2c63d18d65b4c0691a9a60cd58286bb"}

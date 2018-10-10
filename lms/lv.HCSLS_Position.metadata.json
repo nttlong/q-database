@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"lms.lv.HCSLS_Position"},{"v":2,"unique":true,"key":{"job_pos_code":1},"name":"job_pos_code_1","ns":"lms.lv.HCSLS_Position"}],"uuid":"08812d084a6045399e3a07f9f9c3539a"}

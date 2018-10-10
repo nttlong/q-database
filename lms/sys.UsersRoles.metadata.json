@@ -1,0 +1,1 @@
+{"options":{"viewOn":"sys.MyUsers","pipeline":[{"$lookup":{"foreignField":"code","as":"roles","from":"sys.MyRoles","localField":"role_code"}}]},"indexes":[]}

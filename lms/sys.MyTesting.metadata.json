@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"lms.sys.MyTesting"},{"v":2,"unique":true,"key":{"code":1},"name":"code_1","ns":"lms.sys.MyTesting","partialFilterExpression":{"code":{"$type":"string"}}}],"uuid":"f0616e2d8bc94374afe17056fd266c1f"}

@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"lms.lv.HCSLS_Equipment"},{"v":2,"unique":true,"key":{"equipment_code":1},"name":"equipment_code_1","ns":"lms.lv.HCSLS_Equipment","partialFilterExpression":{"equipment_code":{"$type":"string"}}}],"uuid":"7f4044c3b37a4d09b566dbb84642b0ba"}

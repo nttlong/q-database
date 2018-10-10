@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"lms.lv.TMLS_CompetencyFactor"},{"v":2,"unique":true,"key":{"com_code":1,"factor":1},"name":"com_code_1_factor_1","ns":"lms.lv.TMLS_CompetencyFactor","partialFilterExpression":{"com_code":{"$type":"string"},"factor":{"$type":"string"}}}],"uuid":"f10880a692bf4afabf95e48cc2b42d1c"}

@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"lms.lv.TMPER_AprPeriodEmpOut"},{"v":2,"unique":true,"key":{"apr_period":1,"apr_year":1,"employee_code":1},"name":"apr_period_1_apr_year_1_employee_code_1","ns":"lms.lv.TMPER_AprPeriodEmpOut"}],"uuid":"65ea3b7c486645a69dcfb580cd4ee329"}

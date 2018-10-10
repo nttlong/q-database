@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"lms.lv.HCSLS_TrainRequest"},{"v":2,"unique":true,"key":{"request_code":1},"name":"request_code_1","ns":"lms.lv.HCSLS_TrainRequest","partialFilterExpression":{"request_code":{"$type":"string"}}}],"uuid":"ba68a4f6ad314e019acd38ae53462f25"}

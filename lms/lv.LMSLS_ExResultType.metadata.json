@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"lms.lv.LMSLS_ExResultType"},{"v":2,"unique":true,"key":{"result_type_id":1},"name":"result_type_id_1","ns":"lms.lv.LMSLS_ExResultType","partialFilterExpression":{"result_type_id":{"$type":"string"}}}],"uuid":"95ad9ac53cde4731840384443cd8c040"}
